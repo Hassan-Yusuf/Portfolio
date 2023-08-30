@@ -1,2 +1,2 @@
 # Portfolio
-A general portfolio of java projects built
+A general portfolio of projects built
