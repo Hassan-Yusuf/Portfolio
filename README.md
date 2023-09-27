@@ -1,5 +1,5 @@
 # Portfolio
-A general portfolio of projects built
+<br> A general portfolio of projects built
 AlienInvaders - This is a space invaders type spin-off game I made in Java.
 Covid Forecaster - A general covid forecasting application with pdf generator (contains a jar also) in Java.
 Earth - A mapping of the planet earth with a large dataset of coordinates in Java.
