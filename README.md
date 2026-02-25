@@ -1,8 +1,23 @@
-# Portfolio
-<br> A general portfolio of projects built
-<br> AlienInvaders - This is a space invaders type spin-off game I made in Java.
-<br> Covid Forecaster - A general covid forecasting application with pdf generator (contains a jar also) in Java.
-<br> Earth - A mapping of the planet earth with a large dataset of coordinates in Java.
-<br> Maze - A dynamic random maze generator using a spanning tree algorithm and adjacency matrix in Java.
-<br> MazeCube3D - A 3D maze game made in Unity using C#.
-<br> PelicanCrossingSimulation - This is a simulation of a pelican crossing system using client and server (clients act as pedestrians and server acts as crossing system). You can have multiple clients online (but i limited this to 2 or 3 if i remember).
+## Portfolio
+
+A collection of projects covering software engineering, distributed systems, data processing, and game development.
+
+### Projects
+
+- **PelicanCrossingSimulation**  
+  A distributed client-server simulation of a pelican crossing system. Clients act as pedestrians while the server controls crossing logic and signal coordination. Supports multiple concurrent clients and demonstrates synchronization, networking, and modular system design.
+
+- **Earth**  
+  A large-scale Earth mapping project using a substantial coordinate dataset to visualise global terrain data. Focused on handling large datasets, data processing, and geographic visualisation in Java.
+
+- **COVID Forecaster**  
+  A forecasting application written in Java that processes live data to predict trends, generate visual output, and produce automated PDF reports (includes runnable JAR).
+
+- **Maze**  
+  A dynamic random maze generator using a spanning tree algorithm and adjacency matrix. Demonstrates graph theory, algorithm design, and procedural generation.
+
+- **MazeCube3D**  
+  A 3D maze exploration game developed in Unity using C#, featuring interactive navigation, gameplay mechanics, and environment design.
+
+- **AlienInvaders**  
+  A Space Invaders–style arcade game built in Java, focusing on game loops, object interaction, and classic arcade mechanics.
